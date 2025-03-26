@@ -1,0 +1,16 @@
+langchain
+langgraph
+cassio
+langchain-community
+langchain_community
+langchain-groq
+langchainhub
+langchain_huggingface
+chromadb
+tiktoken
+huggingface-hub
+astra-db
+arxiv
+wikipedia-api
+pydantic
+typing-extensions
